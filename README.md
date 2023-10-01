@@ -15,7 +15,8 @@
 
 ## Summary
 
-#### This repository contains codes for building a ```BLOCKCHAIN``` using the WEBSITE FOR ETHEREUM TRANSACTIONS.
+#### ```BLOCKRYPT``` is implemented via a ```BLOCKCHAIN```.
+#### This ```blockchain``` uses the website for ```ETHEREUM TRANSACTIONS```.
 
 ## Steps for Execution
 

@@ -1,24 +1,27 @@
 <a name="readme-top"></a>
 # Blockchain-BLOCKRYPT
-
-
-
-
-THIS IS A BLOCKCHAIN BASED WEBSITE FOR ETHEREUM TRANSACTIONS
+```BLOCKRYPT``` is a ```BLOCKCHAIN BASED``` website for ```ETHEREUM TRANSACTIONS```.
 
 <details>
   <summary color= blue >Table of Contents</summary>
 <li>Summary</li>
+  <li> Steps for Execution</li>
+  <!--
 <li> Prerequisites and Techstack</li>
-<li> Steps for execution</li>
 <li> Usage</li>
-<li>Contributing</li>
+<li>Contributing</li>-->
 </details>
 </br>
 
 ## Summary
 
-### This repo contains codes for building a ```BLOCKCHAIN ``` using the WEBSITE FOR ETHEREUM TRANSACTIONS.
+### This repository contains codes for building a ```BLOCKCHAIN ``` using the WEBSITE FOR ETHEREUM TRANSACTIONS.
+
+## Steps for Execution
+
+* OPEN CMD
+* Navigate  to client > vite_project
+* RUN “npm run dev”
 
 <!-- 
 
@@ -142,8 +145,4 @@ Operating-System-Functions/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 -->    
 
-## STEPS TO EXECUTE
 
-* OPEN CMD
-* Navigate  to client > vite_project
-* RUN “npm run dev”

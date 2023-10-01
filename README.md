@@ -15,8 +15,8 @@
 
 ## Summary
 
-#### ```BLOCKRYPT``` is implemented via a ```BLOCKCHAIN```.
-#### This ```blockchain``` uses the website for ```ETHEREUM TRANSACTIONS```.
+```BLOCKRYPT``` is implemented via a ```BLOCKCHAIN```.
+This ```blockchain``` uses the website for ```ETHEREUM TRANSACTIONS```.
 
 ## Steps for Execution
 
